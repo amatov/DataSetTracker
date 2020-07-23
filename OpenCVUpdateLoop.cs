@@ -1,4 +1,4 @@
-// Alexandre Matov and James Cumberbatch, 2017
+// Alexandre Matov & James Cumberbatch, 2017
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
