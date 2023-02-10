@@ -40,13 +40,13 @@ public class CSVCapture : MonoBehaviour {
 			//string SimpleEmailSender.STMPClient = "stmp.gmail.com";
 			//int SimpleEmailSender.SMTPPort = 587;
 			//string SimpleEmailSender.UserName = "datasetanalysis";
-			//string UserPass = "TestUnity1!1" ;
+			//string UserPass = "password" ;
 
 			//if aux == 0 {
 				SimpleEmailSender.emailSettings.STMPClient = "stmp.gmail.com";
 				SimpleEmailSender.emailSettings.SMTPPort = 587;
 				SimpleEmailSender.emailSettings.UserName = "datasetanalysis";
-				SimpleEmailSender.emailSettings.UserPass = "TestUnity1!1" ;
+				SimpleEmailSender.emailSettings.UserPass = "password" ;
 				Debug.Log (SimpleEmailSender.emailSettings.UserName);
 
 				SimpleEmailSender.Send("alexandre.matov@gmail.com", "movie# (mean speed, std) = ", CSVFile, "");	
@@ -75,7 +75,7 @@ public class CSVCapture : MonoBehaviour {
 			//smtpServer.Port = 587;//993;//GIVE CORRECT PORT HERE
 			//mail.Subject = "test unity email";
 			//mail.Body = "testing another method to send an email";
-			//smtpServer.Credentials = new System.Net.NetworkCredential("stmp.google.com", "Smuchi12345Duhai12345") as ICredentialsByHost;
+			//smtpServer.Credentials = new System.Net.NetworkCredential("stmp.google.com", "password") as ICredentialsByHost;
 			//smtpServer.EnableSsl = true;
 			//ServicePointManager.ServerCertificateValidationCallback =
 			//	delegate (object s, X509Certificate certificate, X509Chain chain, SslPolicyErrors sslPolicyErrors)
