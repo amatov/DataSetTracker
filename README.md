@@ -1,6 +1,6 @@
 ### **DataSet Tracker™**
 
-#### I descriped one possible application of this real-time computer vision analysis approach here: https://researchgate.net/publication/374059823_Quantitative_Video_Microscopy_Methods_in_Medicine_Perspective_2017
+#### I have descriped one possible application of this real-time computer vision analysis approach here: https://researchgate.net/publication/374059823_Quantitative_Video_Microscopy_Methods_in_Medicine_Perspective_2017
 
 ##### DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
 ##### A demo of the beta version developed in the cross-platform game engine Unity and designed to run on personal computers, smartphones, and smart glasses hardware, and suitable for resource-constrained, on-the-fly computing in microscopes without internet connectivity can be viewed at https://vimeo.com/238144544/3ef8c6df4a
