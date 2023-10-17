@@ -1,6 +1,6 @@
 ### **DataSet Tracker™**
 
-##### In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; some of the blobs look like missiles. For some of the 501 frames, I have switched the functionalities betweem displaying the raw segmentation to showing the computed motion tracks.
+#### In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; some of the blobs look like missiles. For some of the 501 frames, I have switched the functionalities betweem displaying the raw segmentation to showing the computed motion tracks.
 
 #### I have descriped a clinical application of this real-time computer vision analysis approach here: https://researchgate.net/publication/374059823_Quantitative_Video_Microscopy_Methods_in_Medicine_Perspective_2017
 
