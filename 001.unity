@@ -954,7 +954,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE907
   m_Size: 64
-  m_ScaledSize: 7.216878
+  m_ScaledSize: 5.7435884
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -1049,7 +1049,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE908
   m_Size: 24
-  m_ScaledSize: 3.608439
+  m_ScaledSize: 2.8717942
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -1133,7 +1133,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 48
-  m_ScaledSize: 2.405626
+  m_ScaledSize: 1.9145294
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -1450,8 +1450,8 @@ MonoBehaviour:
   m_RippleOffColor: {r: 0.12941177, g: 0.58431375, b: 0.9490196, a: 1}
   m_Graphic: {fileID: 522032300}
   m_ToggleGraphic: 1
-  m_ToggleOnLabel: Angles (Green)
-  m_ToggleOffLabel: Speeds (Red)
+  m_ToggleOnLabel: 'Angular Direction of Motion  '
+  m_ToggleOffLabel: 'Angular Direction of Motion '
   m_ToggleOnIcon:
     m_ImageDataType: 1
     m_Sprite: {fileID: 0}
@@ -1477,7 +1477,7 @@ MonoBehaviour:
         m_Name: info_outline
         m_Unicode: \ue88f
       m_Font: {fileID: 12800000, guid: a0a40789b9baa45a68c6d593e02f648a, type: 3}
-  m_Label: Angles (Green)
+  m_Label: 'Angular Direction of Motion  '
   m_LastToggleState: 1
   m_BackOnColor: {r: 0.12941177, g: 0.58431375, b: 0.9490196, a: 1}
   m_BackOffColor: {r: 0.56078434, g: 0.7882353, b: 0.972549, a: 1}
@@ -2157,7 +2157,7 @@ VideoPlayer:
   m_AudioOutputMode: 0
   m_TargetAudioSources: []
   m_DirectAudioVolumes: []
-  m_Url: file://D:/BURNHAM/lesha1.mp4
+  m_Url: file://D:/UNITYDOWNLOAD/EMEBS/Assets/StreamingAssets/ebTrack_synethic_2.mp4
   m_EnabledAudioTracks: 
   m_DirectAudioMutes: 
   m_ControlledAudioTrackCount: 0
@@ -2416,7 +2416,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Record
+  m_Text: Save Video
 --- !u!222 &154006413
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2610,7 +2610,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 48
-  m_ScaledSize: 2.405627
+  m_ScaledSize: 1.9145302
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -2693,7 +2693,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE903
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -3755,7 +3755,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 40
-  m_ScaledSize: 6.0140653
+  m_ScaledSize: 4.7863235
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -4184,7 +4184,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -4281,7 +4281,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE907
   m_Size: 64
-  m_ScaledSize: 7.216878
+  m_ScaledSize: 5.7435884
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -4604,7 +4604,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE907
   m_Size: 64
-  m_ScaledSize: 7.216878
+  m_ScaledSize: 5.7435884
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -4688,7 +4688,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -4884,7 +4884,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Max Speed
+  m_Text: Estimated Maximal Displacement
 --- !u!222 &377970281
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5123,8 +5123,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_MatchOrientationToScreen: 1
-  m_ScaleFactor: 0.15035163
-  m_LastResolution: {x: 1024, y: 768}
+  m_ScaleFactor: 0.11965809
+  m_LastResolution: {x: 813, y: 965}
 --- !u!1 &482650050
 GameObject:
   m_ObjectHideFlags: 0
@@ -5644,7 +5644,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Angles (Green)
+  m_Text: 'Angular Direction of Motion  '
 --- !u!222 &522032301
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6088,7 +6088,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 40
-  m_ScaledSize: 6.0140653
+  m_ScaledSize: 4.7863235
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -6485,7 +6485,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \ue5cd
   m_Size: 40
-  m_ScaledSize: 6.0140653
+  m_ScaledSize: 4.7863235
   m_SizeMode: 0
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -7182,8 +7182,8 @@ MonoBehaviour:
   m_ShadowsCanvasGroup: {fileID: 1675812840}
   m_Interactable: 1
   m_ContentPadding: {x: 120, y: 10}
-  m_ContentSize: {x: 61, y: 14}
-  m_Size: {x: 181, y: 24}
+  m_ContentSize: {x: 121, y: 14}
+  m_Size: {x: 241, y: 24}
   m_FitWidthToContent: 1
   m_FitHeightToContent: 1
   m_IsCircularButton: 0
@@ -7387,7 +7387,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 40
-  m_ScaledSize: 6.0140653
+  m_ScaledSize: 4.7863235
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -7427,7 +7427,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 663386684}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.00025371794}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00025503937}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 553239085}
@@ -7435,7 +7435,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 197.55814}
+  m_AnchoredPosition: {x: 0, y: 197.56046}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &663386686
@@ -8663,7 +8663,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 760118359}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0002537184}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00025503983}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1780152341}
@@ -8671,7 +8671,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 150.0083}
+  m_AnchoredPosition: {x: 0, y: 150.00842}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &760118361
@@ -8810,7 +8810,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE903
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -9167,8 +9167,8 @@ MonoBehaviour:
   m_ShadowsCanvasGroup: {fileID: 2124949196}
   m_Interactable: 1
   m_ContentPadding: {x: 140, y: 10}
-  m_ContentSize: {x: 37, y: 14}
-  m_Size: {x: 177, y: 24}
+  m_ContentSize: {x: 60, y: 14}
+  m_Size: {x: 200, y: 24}
   m_FitWidthToContent: 1
   m_FitHeightToContent: 1
   m_IsCircularButton: 0
@@ -9406,7 +9406,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE903
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -9501,7 +9501,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE908
   m_Size: 24
-  m_ScaledSize: 3.608439
+  m_ScaledSize: 2.8717942
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -9627,7 +9627,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 48
-  m_ScaledSize: 2.405626
+  m_ScaledSize: 1.9145294
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -10020,7 +10020,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Video File Selection
+  m_Text: Display & Visualization Settings
 --- !u!222 &837755696
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -10121,7 +10121,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \ue8fd
   m_Size: 40
-  m_ScaledSize: 6.0140653
+  m_ScaledSize: 4.7863235
   m_SizeMode: 0
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -10297,7 +10297,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE908
   m_Size: 24
-  m_ScaledSize: 3.608439
+  m_ScaledSize: 2.8717942
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -11372,7 +11372,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE907
   m_Size: 64
-  m_ScaledSize: 7.216878
+  m_ScaledSize: 5.7435884
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -11470,7 +11470,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE907
   m_Size: 64
-  m_ScaledSize: 7.216878
+  m_ScaledSize: 5.7435884
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -11959,8 +11959,8 @@ MonoBehaviour:
   m_RippleOffColor: {r: 0.12941177, g: 0.58431375, b: 0.9490196, a: 1}
   m_Graphic: {fileID: 1157094934}
   m_ToggleGraphic: 1
-  m_ToggleOnLabel: Gaussian Filter on
-  m_ToggleOffLabel: Gaussian Filter off
+  m_ToggleOnLabel: Oriented FAST & Rotated BRIEF on
+  m_ToggleOffLabel: Oriented FAST & Rotated BRIE off
   m_ToggleOnIcon:
     m_ImageDataType: 1
     m_Sprite: {fileID: 0}
@@ -11986,7 +11986,7 @@ MonoBehaviour:
         m_Name: info_outline
         m_Unicode: \ue88f
       m_Font: {fileID: 12800000, guid: a0a40789b9baa45a68c6d593e02f648a, type: 3}
-  m_Label: Gaussian Filter on
+  m_Label: Oriented FAST & Rotated BRIEF on
   m_LastToggleState: 1
   m_BackOnColor: {r: 0.12941177, g: 0.58431375, b: 0.9490196, a: 1}
   m_BackOffColor: {r: 0.56078434, g: 0.7882353, b: 0.972549, a: 1}
@@ -13696,8 +13696,8 @@ MonoBehaviour:
   m_RippleOffColor: {r: 0.12941177, g: 0.58431375, b: 0.9490196, a: 1}
   m_Graphic: {fileID: 1528011956}
   m_ToggleGraphic: 1
-  m_ToggleOnLabel: Traces on
-  m_ToggleOffLabel: Traces off
+  m_ToggleOnLabel: Trace Overlay on
+  m_ToggleOffLabel: Trace Overlay off
   m_ToggleOnIcon:
     m_ImageDataType: 1
     m_Sprite: {fileID: 0}
@@ -13723,7 +13723,7 @@ MonoBehaviour:
         m_Name: info_outline
         m_Unicode: \ue88f
       m_Font: {fileID: 12800000, guid: a0a40789b9baa45a68c6d593e02f648a, type: 3}
-  m_Label: Traces on
+  m_Label: Trace Overlay on
   m_LastToggleState: 1
   m_BackOnColor: {r: 0.12941177, g: 0.58431375, b: 0.9490196, a: 1}
   m_BackOffColor: {r: 0.56078434, g: 0.7882353, b: 0.972549, a: 1}
@@ -13946,7 +13946,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Gaussian Filter on
+  m_Text: Oriented FAST & Rotated BRIEF on
 --- !u!222 &1157094935
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -14862,7 +14862,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -15019,7 +15019,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE903
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -15128,7 +15128,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1340380174}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.0002537184}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00025503983}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 652464185}
@@ -16022,7 +16022,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE908
   m_Size: 24
-  m_ScaledSize: 3.608439
+  m_ScaledSize: 2.8717942
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -16338,7 +16338,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pre-Processing on
+  m_Text: Segmented Features Only on
 --- !u!222 &1444874211
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17447,7 +17447,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Traces on
+  m_Text: Trace Overlay on
 --- !u!222 &1528011957
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18859,7 +18859,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Load Video
+  m_Text: Select File for Analysis
 --- !u!222 &1642478895
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -19473,7 +19473,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 'Max # Detections'
+  m_Text: Maximal Number of Detected Features
 --- !u!222 &1673708859
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -20012,7 +20012,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 48
-  m_ScaledSize: 2.405626
+  m_ScaledSize: 1.9145294
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -20172,7 +20172,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \ue23d
   m_Size: 40
-  m_ScaledSize: 6.0140653
+  m_ScaledSize: 4.7863235
   m_SizeMode: 0
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -20464,8 +20464,8 @@ MonoBehaviour:
   m_RippleOffColor: {r: 0.12941177, g: 0.58431375, b: 0.9490196, a: 1}
   m_Graphic: {fileID: 1444874210}
   m_ToggleGraphic: 1
-  m_ToggleOnLabel: Pre-Processing on
-  m_ToggleOffLabel: Pre-Processing off
+  m_ToggleOnLabel: Segmented Features Only on
+  m_ToggleOffLabel: Segmented Features Only off
   m_ToggleOnIcon:
     m_ImageDataType: 1
     m_Sprite: {fileID: 0}
@@ -20491,7 +20491,7 @@ MonoBehaviour:
         m_Name: info_outline
         m_Unicode: \ue88f
       m_Font: {fileID: 12800000, guid: a0a40789b9baa45a68c6d593e02f648a, type: 3}
-  m_Label: Pre-Processing on
+  m_Label: Segmented Features Only on
   m_LastToggleState: 1
   m_BackOnColor: {r: 0.12941177, g: 0.58431375, b: 0.9490196, a: 1}
   m_BackOffColor: {r: 0.56078434, g: 0.7882353, b: 0.972549, a: 1}
@@ -20692,7 +20692,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Quality Level
+  m_Text: Quality of Feature Recongition
 --- !u!222 &1755169165
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21059,7 +21059,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 40
-  m_ScaledSize: 6.0140653
+  m_ScaledSize: 4.7863235
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -21197,7 +21197,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Min Distance
+  m_Text: Estimated Feature Size
 --- !u!222 &1803966935
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -22364,7 +22364,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE907
   m_Size: 64
-  m_ScaledSize: 7.216878
+  m_ScaledSize: 5.7435884
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -22530,7 +22530,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -23190,7 +23190,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \ue5c3
   m_Size: 40
-  m_ScaledSize: 6.0140653
+  m_ScaledSize: 4.7863235
   m_SizeMode: 0
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -23360,7 +23360,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE902
   m_Size: 48
-  m_ScaledSize: 2.405626
+  m_ScaledSize: 1.9145294
   m_SizeMode: 3
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -23827,7 +23827,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: \uE905
   m_Size: 20
-  m_ScaledSize: 3.0070326
+  m_ScaledSize: 2.3931618
   m_SizeMode: 0
   m_MaterialUiScaler: {fileID: 433884709}
   m_VectorImageData:
@@ -24115,7 +24115,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2005797568}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.00025371843}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00025503986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 270196867}
@@ -24123,7 +24123,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 197.55826}
+  m_AnchoredPosition: {x: 0, y: 197.55939}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &2005797570
@@ -24556,147 +24556,147 @@ MonoBehaviour:
     - 0
   NewColor1:
     val:
-    - 0
+    - 150
     - 255
-    - 255
+    - 250
     - 0
   NewColor2:
     val:
-    - 10
-    - 255
-    - 255
+    - 146
+    - 250
+    - 240
     - 0
   NewColor3:
     val:
-    - 20
-    - 255
-    - 255
+    - 142
+    - 245
+    - 230
     - 0
   NewColor4:
     val:
-    - 30
-    - 255
-    - 255
+    - 138
+    - 240
+    - 220
     - 0
   NewColor5:
     val:
-    - 40
-    - 255
-    - 255
+    - 134
+    - 235
+    - 210
     - 0
   NewColor6:
     val:
-    - 50
-    - 255
-    - 255
+    - 130
+    - 230
+    - 200
     - 0
   NewColor7:
     val:
-    - 60
-    - 255
-    - 255
+    - 126
+    - 225
+    - 190
     - 0
   NewColor8:
     val:
-    - 70
-    - 255
-    - 255
+    - 122
+    - 220
+    - 180
     - 0
   NewColor9:
     val:
-    - 80
-    - 255
-    - 255
+    - 118
+    - 215
+    - 170
     - 0
   NewColor10:
     val:
-    - 100
-    - 255
-    - 255
+    - 114
+    - 210
+    - 160
     - 0
   NewColor11:
     val:
     - 110
-    - 255
-    - 255
+    - 205
+    - 150
     - 0
   NewColor12:
     val:
-    - 120
-    - 255
-    - 255
+    - 106
+    - 200
+    - 140
     - 0
   NewColor13:
     val:
+    - 102
+    - 195
     - 130
-    - 255
-    - 255
     - 0
   NewColor14:
     val:
-    - 140
-    - 255
-    - 255
+    - 98
+    - 190
+    - 120
     - 0
   NewColor15:
     val:
-    - 150
-    - 255
-    - 255
+    - 94
+    - 185
+    - 110
     - 0
   NewColor16:
     val:
-    - 160
-    - 255
-    - 255
+    - 90
+    - 180
+    - 100
     - 0
   NewColor17:
     val:
-    - 170
-    - 255
-    - 255
+    - 86
+    - 175
+    - 90
     - 0
   NewColor18:
     val:
-    - 180
-    - 255
-    - 255
+    - 82
+    - 170
+    - 80
     - 0
   NewColor19:
     val:
-    - 190
-    - 255
-    - 255
+    - 78
+    - 165
+    - 70
     - 0
   NewColor20:
     val:
-    - 200
-    - 255
-    - 255
+    - 74
+    - 160
+    - 60
     - 0
   NewColor21:
     val:
-    - 210
-    - 255
-    - 255
+    - 70
+    - 155
+    - 50
     - 0
   NewColor22:
     val:
-    - 220
-    - 255
-    - 255
+    - 66
+    - 150
+    - 40
     - 0
   NewColor23:
     val:
-    - 230
-    - 255
-    - 255
+    - 62
+    - 145
+    - 30
     - 0
   NewColor24:
     val:
-    - 240
-    - 255
-    - 255
+    - 58
+    - 140
+    - 20
     - 0
   Spe0: 0
   Spe1: 0
