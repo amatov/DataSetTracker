@@ -2,11 +2,11 @@
 
 ### In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; some of the blobs look like missiles. For some of the 501 frames, I have switched the functionality betweem displaying the raw segmentated areas to showing the computed motion tracks.
 
-### I have descriped a clinical application of this real-time computer vision analysis approach here: https://researchgate.net/publication/374059823_Quantitative_Video_Microscopy_Methods_in_Medicine_Perspective_2017
+#### I have descriped a clinical application of this real-time computer vision analysis approach here: https://researchgate.net/publication/374059823_Quantitative_Video_Microscopy_Methods_in_Medicine_Perspective_2017
 
-### I described an application for the ex vivo analysis of patient samples in multiple myeloma, acute myeloid leukemia, and myelodysplastic syndromes here: https://researchgate.net/publication/374166319_A_Computational_Tool_for_Real-Time_3D_Image_Analysis_of_Intercellular_Communications_and_Phenotypical_Ex_Vivo_Evaluation_of_Drug_Response_in_Multiple_Myeloma_2019
+#### I described an application for the ex vivo analysis of patient samples in multiple myeloma, acute myeloid leukemia, and myelodysplastic syndromes here: https://researchgate.net/publication/374166319_A_Computational_Tool_for_Real-Time_3D_Image_Analysis_of_Intercellular_Communications_and_Phenotypical_Ex_Vivo_Evaluation_of_Drug_Response_in_Multiple_Myeloma_2019
 
-### I described an application for drug discovery in glioblastoma here: https://researchgate.net/publication/374192982_Motion_Analysis_of_the_Nuclear_Epigenetic_Histone_Mark_H3K9me3_in_Live_Cells_Treated_with_ara-C_AT9283_and_Resminostat_for_Drug_Discovery_in_Glioblastoma_2017
+#### I described an application for drug discovery in glioblastoma here: https://researchgate.net/publication/374192982_Motion_Analysis_of_the_Nuclear_Epigenetic_Histone_Mark_H3K9me3_in_Live_Cells_Treated_with_ara-C_AT9283_and_Resminostat_for_Drug_Discovery_in_Glioblastoma_2017
 
 #### DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
 
