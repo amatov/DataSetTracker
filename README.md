@@ -1,4 +1,6 @@
-#### DataSet Tracker™
+### DataSet Tracker™
+
+### This is an application I developed for smartphones, smart glasses, laptop and desktop computers 
 
 ### In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; the moving blobs look like missiles. For some of the 501 frames, I have switched the functionality betweem displaying the raw segmentated areas to showing the computed motion tracks.
 
