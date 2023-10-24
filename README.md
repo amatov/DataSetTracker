@@ -2,7 +2,9 @@
 
 ### This is an application I developed for smartphones, smart glasses, laptop and desktop computers 
 
-### In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; the moving blobs look like missiles. For some of the 501 frames, I have switched the functionality betweem displaying the raw segmentated areas to showing the computed motion tracks.
+### The app processes images as the phone or iPad is pointed at a scene with moving objects and overlays on the phone camera screen detection output and motion metrics in real time
+
+### In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; the moving blobs look like missiles. For some of the 501 frames, I have switched the functionality betweem displaying the raw segmentated areas to showing the computed motion tracks
 
 #### I have descriped a clinical application of this real-time computer vision analysis approach here: https://researchgate.net/publication/374059823_Quantitative_Video_Microscopy_Methods_in_Medicine_Perspective_2017
 
