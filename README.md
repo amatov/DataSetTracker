@@ -24,5 +24,5 @@
 
 ##### By providing sample-specific input to the tracking module, the parameters selection allows to limit the computational complexity, to minimize the tracking errors and to deliver the fastest analysis results. The blue buttons in the lower-left corner of the screen allow to change various aspects of the screen display in terms of showing segmentation or tracking results, single-segment tracks (between just two frames) or the aggregated trajectories and, as described above, the color-coding of the vectors (the angles in red and yellow or the speeds in different shades of green).
 
-#### I wrote C# code together with James Cumberbatch (Pushbutton) of Brighton and Hove, England.
+#### I wrote C# code with James Cumberbatch (Pushbutton) of Brighton and Hove, England.
 
