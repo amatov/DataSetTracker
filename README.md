@@ -14,7 +14,7 @@
 
 ##### DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
 
-##### A demo of the beta version developed in the cross-platform game engine Unity and designed to run on personal computers, smartphones, and smart glasses hardware, and suitable for resource-constrained, on-the-fly computing in microscopes without internet connectivity can be viewed at lnkd.in/gHxqxMXe
+##### A demo of the beta version developed in the cross-platform game engine Unity and designed to run on personal computers, smartphones, and smart glasses hardware, and suitable for resource-constrained, on-the-fly computing in microscopes without internet connectivity can be viewed at https://lnkd.in/gHxqxMXe
 
 ##### The video shows computer vision analysis of the motion of synthetic markers, which mimic live-cell fluorescent microscopy image sequences. Displacement vectors color-coding is used to show the angular direction as well as the speed of motion. A button selection allows changing the display preferences. 
 
