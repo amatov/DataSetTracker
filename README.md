@@ -8,7 +8,7 @@
 
 ##### I have descriped a clinical application of this real-time computer vision analysis approach here: http://dx.doi.org/10.13140/RG.2.2.25725.13281/1
 
-##### I described an application for the ex vivo analysis of patient samples in multiple myeloma, acute myeloid leukemia, and myelodysplastic syndromes here: https://researchgate.net/publication/374166319_A_Computational_Tool_for_Real-Time_3D_Image_Analysis_of_Intercellular_Communications_and_Phenotypical_Ex_Vivo_Evaluation_of_Drug_Response_in_Multiple_Myeloma_2019
+##### I described an application for the ex vivo analysis of patient samples in multiple myeloma, acute myeloid leukemia, and myelodysplastic syndromes here: http://dx.doi.org/10.13140/RG.2.2.29049.44644/1
 
 ##### I described an application for drug discovery in glioblastoma here: https://researchgate.net/publication/374192982_Motion_Analysis_of_the_Nuclear_Epigenetic_Histone_Mark_H3K9me3_in_Live_Cells_Treated_with_ara-C_AT9283_and_Resminostat_for_Drug_Discovery_in_Glioblastoma_2017
 
