@@ -10,7 +10,7 @@
 
 ##### I described an application for the ex vivo analysis of patient samples in multiple myeloma, acute myeloid leukemia, and myelodysplastic syndromes here: http://dx.doi.org/10.13140/RG.2.2.29049.44644/1
 
-##### I described an application for drug discovery in glioblastoma here: https://researchgate.net/publication/374192982_Motion_Analysis_of_the_Nuclear_Epigenetic_Histone_Mark_H3K9me3_in_Live_Cells_Treated_with_ara-C_AT9283_and_Resminostat_for_Drug_Discovery_in_Glioblastoma_2017
+##### I described an application for drug discovery in glioblastoma here: http://dx.doi.org/10.13140/RG.2.2.11459.58409/2
 
 ##### DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
 
