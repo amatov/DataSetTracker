@@ -12,6 +12,8 @@
 
 ##### I described an application for drug discovery in glioblastoma here: http://dx.doi.org/10.13140/RG.2.2.11459.58409/2 (2 PDF files) 
 
+##### See also https://www.researchgate.net/publication/382459075_Real-Time_Image_Analysis_Software_Suitable_for_Resource-Constrained_Computing
+
 ##### DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
 
 ##### A demo of the beta version developed in the cross-platform game engine Unity and designed to run on personal computers, smartphones, and smart glasses hardware, and suitable for resource-constrained, on-the-fly computing in microscopes without internet connectivity can be viewed at https://lnkd.in/gHxqxMXe (3 movie files) 
