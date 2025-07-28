@@ -6,12 +6,6 @@
 
 #### In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; the moving blobs look like missiles. For some of the 501 frames, I have switched the functionality betweem displaying the raw segmentated areas to showing the computed motion tracks
 
-##### I have descriped a clinical application of this real-time computer vision analysis approach here: http://dx.doi.org/10.13140/RG.2.2.25725.13281/1 (5 PDF files) 
-
-##### I described an application for the ex vivo analysis of patient samples in multiple myeloma, acute myeloid leukemia, and myelodysplastic syndromes here: http://dx.doi.org/10.13140/RG.2.2.29049.44644/1 (7 PDF files) 
-
-##### I described an application for drug discovery in glioblastoma here: http://dx.doi.org/10.13140/RG.2.2.11459.58409/2 (2 PDF files) 
-
 ##### See also https://www.researchgate.net/publication/382459075_Real-Time_Image_Analysis_Software_Suitable_for_Resource-Constrained_Computing
 
 ##### DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
