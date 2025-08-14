@@ -6,7 +6,7 @@
 
 #### In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; the moving blobs look like missiles. For some of the 501 frames, I have switched the functionality betweem displaying the raw segmentated areas to showing the computed motion tracks
 
-### For detailed information, https://www.researchgate.net/publication/382459075_Real-Time_Image_Analysis_Software_Suitable_for_Resource-Constrained_Computing
+### For detailed information, see: https://www.researchgate.net/publication/382459075_Real-Time_Image_Analysis_Software_Suitable_for_Resource-Constrained_Computing
 
 ##### DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
 
