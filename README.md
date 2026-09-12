@@ -1,5 +1,29 @@
 ### DataSet Tracker™
 
+## Quick start
+
+To run the application (no installation, no Unity required), see
+[release/README.md](release/README.md) -- in brief: download
+`release/DataSetTracker_v1.1.zip` and `release/EBTracker.exe`, unzip the
+folder, place `EBTracker.exe` inside it, and double-click to run.
+
+## Repository contents
+
+- **`release/`** -- the prebuilt Windows application (`DataSetTracker_v1.1.zip`
+  + `EBTracker.exe`) -- this is what most users want.
+- **`media/`** -- supplementary demo videos, a screenshot, and PDFs.
+- **`OpenCVvideo/`** -- frame-by-frame image processing/segmentation
+  results (501 frames), described below.
+- **The `.cs` / `.unity` files** at the repository root are the reference
+  source code for the application, developed in Unity. They are not a
+  complete, buildable Unity project as committed -- there is no
+  `Assets/`/`ProjectSettings/`/`Packages/` folder here, and the code
+  depends on three third-party plugins not included in this repository
+  (OpenCV for Unity, PlayFab, MaterialUI). See
+  [DEPENDENCIES.md](DEPENDENCIES.md) if you want to build from source
+  rather than run the prebuilt application in `release/`.
+- **License:** see [LICENSE](LICENSE) -- research/educational use.
+
 #### This is an application I developed for smartphones, smart glasses, laptop and desktop computers 
 
 #### The app processes images as the phone or iPad is pointed at a scene with moving objects and overlays on the phone screen detection output and motion metrics in real time (see the six demo videos above)
