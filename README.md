@@ -19,13 +19,7 @@ folder, place `EBTracker.exe` inside it, and double-click to run.
   some frames the display switches from raw segmented areas to
   computed motion tracks.
 - **The `.cs` / `.unity` files** at the repository root are the reference
-  source code for the application, developed in Unity. They are not a
-  complete, buildable Unity project as committed -- there is no
-  `Assets/`/`ProjectSettings/`/`Packages/` folder here, and the code
-  depends on three third-party plugins not included in this repository
-  (OpenCV for Unity, PlayFab, MaterialUI). See
-  [DEPENDENCIES.md](DEPENDENCIES.md) if you want to build from source
-  rather than run the prebuilt application in `release/`.
+  source code for the application, developed in Unity.
 - **License:** see [LICENSE](LICENSE) -- research/educational use.
 
 ## About
