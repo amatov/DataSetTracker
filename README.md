@@ -36,7 +36,7 @@ The app processes images as the phone or iPad is pointed at a scene with moving 
 
 For detailed information, see: https://www.researchgate.net/publication/382459075_Real-Time_Image_Analysis_Software_Suitable_for_Resource-Constrained_Computing
 
-## Real-time motion analysis
+## Real-time Motion Analysis
 
 DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
 
