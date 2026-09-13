@@ -26,7 +26,7 @@ folder, place `EBTracker.exe` inside it, and double-click to run.
 
 This is an application I developed for smartphones, smart glasses, laptops and desktop computers.
 
-The app processes images as the phone or iPad is pointed at a scene with moving objects and overlays on the phone screen detection output and motion metrics in real time (see the six demo videos in [`media/`](media/)).
+The phone app processes images as the phone or iPad is pointed at a scene with moving objects and overlays on the screen detection output and motion metrics in real time (see the six demo videos in [`media/`](media/)).
 
 For detailed information, see: https://www.researchgate.net/publication/382459075_Real-Time_Image_Analysis_Software_Suitable_for_Resource-Constrained_Computing
 
