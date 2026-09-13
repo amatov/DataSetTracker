@@ -13,7 +13,7 @@ folder, place `EBTracker.exe` inside it, and double-click to run.
 
 - **`release/`** -- the prebuilt Windows application (`DataSetTracker_v1.1.zip`
   + `EBTracker.exe`) -- this is what most users want.
-- **`media/`** -- supplementary demo videos, a screenshot, and PDFs.
+- **[`media/`](media/)** -- supplementary demo videos, a screenshot, and PDFs.
 - **`OpenCVvideo/`** -- frame-by-frame image processing/segmentation
   results (501 frames); the moving blobs look like missiles, and for
   some frames the display switches from raw segmented areas to
