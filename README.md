@@ -1,5 +1,7 @@
 ### DataSet Tracker™
 
+I wrote C# code with James Cumberbatch (Pushbutton Ltd and Vidro Ltd) of Brighton, UK.
+
 ## Quick start
 
 To run the application (no installation, no Unity required), see
@@ -45,6 +47,4 @@ The vectors moving to the right are color-coded in shades of yellow and are also
 On the left side of the screen, there are sliders in the upper-left corner, which allow setting the (i) the upper limit for the number of detected particles based on an a priori knowledge of the nature of the motion in the analyzed sample, (ii) the level of statistical significance for the particle selection step, i.e., the level of particle detection stringency, (iii) the minimum distance between particles, which is another parameter selection done based on an a priori knowledge of the type of sample for analysis, and (iv) a cut-off for the particle search radius, which limits the maximally allowed displacement and thus the computational cost; this is another parameter, which is selected based on a knowledge of the sample properties. 
 
 By providing sample-specific input to the tracking module, the parameters selection allows to limit the computational complexity, to minimize the tracking errors and to deliver the fastest analysis results. The blue buttons in the lower-left corner of the screen allow to change various aspects of the screen display in terms of showing segmentation or tracking results, single-segment tracks (between just two frames) or the aggregated trajectories and, as described above, the color-coding of the vectors (the angles in red and yellow or the speeds in different shades of green).
-
-I wrote C# code with James Cumberbatch (Pushbutton Ltd and Vidro Ltd) of Brighton, UK.
 
