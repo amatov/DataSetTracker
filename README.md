@@ -15,7 +15,9 @@ folder, place `EBTracker.exe` inside it, and double-click to run.
   + `EBTracker.exe`) -- this is what most users want.
 - **`media/`** -- supplementary demo videos, a screenshot, and PDFs.
 - **`OpenCVvideo/`** -- frame-by-frame image processing/segmentation
-  results (501 frames), described below.
+  results (501 frames); the moving blobs look like missiles, and for
+  some frames the display switches from raw segmented areas to
+  computed motion tracks.
 - **The `.cs` / `.unity` files** at the repository root are the reference
   source code for the application, developed in Unity. They are not a
   complete, buildable Unity project as committed -- there is no
@@ -28,13 +30,13 @@ folder, place `EBTracker.exe` inside it, and double-click to run.
 
 ## About
 
-This is an application I developed for smartphones, smart glasses, laptops and desktop computers 
+This is an application I developed for smartphones, smart glasses, laptops and desktop computers.
 
-The app processes images as the phone or iPad is pointed at a scene with moving objects and overlays on the phone screen detection output and motion metrics in real time (see the six demo videos above)
-
-In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; the moving blobs look like missiles. For some of the 501 frames, I have switched the functionality from displaying the raw segmented areas to showing the computed motion tracks
+The app processes images as the phone or iPad is pointed at a scene with moving objects and overlays on the phone screen detection output and motion metrics in real time (see the six demo videos above).
 
 For detailed information, see: https://www.researchgate.net/publication/382459075_Real-Time_Image_Analysis_Software_Suitable_for_Resource-Constrained_Computing
+
+## Real-time motion analysis
 
 DataSet Tracker is an openCV-based motion tracking software with real-time camera control and analysis using background subtraction and a watershed algorithm to select image features for tracking, coupled with a Lucas-Kanade optical flow display and a statistical representation of the readout parameters. 
 
