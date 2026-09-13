@@ -1,6 +1,6 @@
 ### DataSet Tracker™
 
-I wrote C# code with James Cumberbatch (Pushbutton Ltd and Vidro Ltd) of Brighton, UK.
+I wrote C# code in Unity and built using Xcode, with help from James Cumberbatch (Pushbutton Ltd and Vidro Ltd).
 
 ## Quick start
 
