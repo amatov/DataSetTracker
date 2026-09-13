@@ -32,7 +32,7 @@ This is an application I developed for smartphones, smart glasses, laptop and de
 
 The app processes images as the phone or iPad is pointed at a scene with moving objects and overlays on the phone screen detection output and motion metrics in real time (see the six demo videos above)
 
-In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; the moving blobs look like missiles. For some of the 501 frames, I have switched the functionality betweem displaying the raw segmentated areas to showing the computed motion tracks
+In the folder OpenCVvideo, I have uploaded the image processing and feature segmentation results of my algorithm frame by frame; the moving blobs look like missiles. For some of the 501 frames, I have switched the functionality from displaying the raw segmented areas to showing the computed motion tracks
 
 For detailed information, see: https://www.researchgate.net/publication/382459075_Real-Time_Image_Analysis_Software_Suitable_for_Resource-Constrained_Computing
 
