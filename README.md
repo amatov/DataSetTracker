@@ -15,7 +15,7 @@ folder, place `EBTracker.exe` inside it, and double-click to run.
   + `EBTracker.exe`) -- this is what most users want.
 - **[`media/`](media/)** -- supplementary demo videos, a screenshot, and PDFs.
 - **`OpenCVvideo/`** -- frame-by-frame image processing/segmentation
-  results (501 frames); the moving blobs look like missiles, and for
+  results; the moving blobs look like missiles, and for
   some frames the display switches from raw segmented areas to
   computed motion tracks.
 - **The `.cs` / `.unity` files** at the repository root are the reference
